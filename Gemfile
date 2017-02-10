@@ -34,6 +34,10 @@ gem 'jbuilder', '~> 2.5'
 
 ruby '2.3.3'
 
+gem 'carrierwave'
+
+gem 'figaro'
+
 
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
