@@ -38,6 +38,7 @@ gem 'carrierwave'
 
 gem 'figaro'
 
+gem 'cloudinary', '1.1.0'
 
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'

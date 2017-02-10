@@ -5,9 +5,10 @@
  * ------------------------------------- */
 
 // Paddings
-.padded {
-  padding-top: 5em;
-  padding-bottom: 5em;
+
+.marged {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 // Backgrounds
@@ -23,3 +24,31 @@
 .bg-dark-blue {
   background: #3b5998;
 }
+
+body {
+background-color: rgba(54,217,217,0.7);
+}
+
+.title {
+  font-weight: bolder;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.list {
+  list-style-type:none;
+}
+
+.trash-style {
+color: #F9A926;
+text-decoration: none;
+}
+
+.trash-style:hover {
+color: #E09822;
+text-decoration: none;
+}
+
+
+

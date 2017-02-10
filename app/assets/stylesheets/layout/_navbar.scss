@@ -54,15 +54,28 @@
   padding: 0 20px;
   border-radius: 20em;
   line-height: 40px;
-  background-color: #D23333;
+  background-color: #F9A926;
   color: white;
   font-size: 14px;
-  border: 2px solid #D23333;
+  border: 2px solid #F9A926;
 }
+
+.navbar-wagon-button.btn.validate {
+ background-color: #FF7E00;
+ color: white;
+}
+
+.navbar-wagon-button.btn.validate:hover {
+background-color: #E57100;
+color: white;
+transition: all 0.2s ease;
+}
+
 .navbar-wagon-button:hover {
   color: white;
-  background: #D23333;
-  border-color: #ac2626;
+  background: #E09822;
+  border-color: #E09822;
+  transition: all 0.2s ease;
 }
 
 /* Navbar search form */
